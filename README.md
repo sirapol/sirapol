@@ -16,7 +16,7 @@
     strLineID = "s.sirapol"
 
 ## Images
-<img src="https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/31225613_197687114368294_7299577887722569728_n.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGHjACZrSM9JSDlY2QkH8-Tim838M4Z2_KKbzfwzhnb8pXOr0x9w6d_RHIxrldFkajrrUhcyM1-zqWvte2G305y&_nc_ohc=CPY8f9RxPF0AX_DJRdF&_nc_ht=scontent.fbkk12-2.fna&oh=68cf69657c5e154a9bc3ac8a212e3337&oe=603B522A" width="500">
+<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.6435-9/31225613_197687114368294_7299577887722569728_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGHjACZrSM9JSDlY2QkH8-Tim838M4Z2_KKbzfwzhnb8pXOr0x9w6d_RHIxrldFkajrrUhcyM1-zqWvte2G305y&_nc_ohc=3gQG6qFOqAIAX8Oluea&tn=RsUY8DoOlMIOfSzf&_nc_ht=scontent.fkdt1-1.fna&oh=2db42ff3f3d526383ed904600fbf8870&oe=61457695" width="500">
 
 ## Experiance
 ### 1. Ducati Motor Thailand Co., LTD.
@@ -76,7 +76,30 @@
        2. Write webinar content.
 
 #### Start Date (Estimate) : 2018-01-01
+#### End Date : 2021-04-01
+
+
+### 5. Network Link Co., Ltd.
+#### Position : Programmer ( IoT Hardware Engineer )
+#### Responsibility
+	Focus on Electronics hardware for IoT in construction business
+        1.  Kick start new project with customer's requirement.
+        2.  Suggest the right way for start IoT project.
+        3.  Site survey, get requirement and find critial pain point from customer.
+        4.  Guidelines the hardware for our team ( Electronic technician and Web app developer ).
+        5.  Mapping data from hardware to web app ( via REST API ,MQTT and etc ).
+        6.  Design prototype PCB and firmware.
+        7.  Driving the prototype to mass production 
+        8.  Contact with PCB fabrication factor , Electronic component supplier.
+        9.  Testing and develop testing to for our team.
+        10. Improve hardware current model ( Add feture , improve performance )
+        11. Etc.
+    
+
+#### Start Date (Estimate) : 2021-05-01
 #### End Date : Present
+
+
 
 ## Education
 |Education|Institution|Major|
@@ -87,7 +110,7 @@
 ## Skill
 ***note in the bracket is skil ranking. ( Maximum is "Out standing")***
 ### Programming
-1. C // Embedded PIC16F,PIC18F ( Very good )
+1. C // Embedded PIC16F,PIC18F,AVR series ( Very good )
 2. Java ( Below Average )
 3. Javascript // NodeJS ( Good )
 4. C# // WinFrom , Console ( Average )
@@ -103,7 +126,8 @@
 6.  REST API ( Very good )
 7.  MQTT ( Very good )
 8.  Bluetooth ( Average )
-9.  3G internet, message ( Avarage )
+9.  3G/4G internet, NB-IoT , message ( Outstanding )
+10. LoRa ( Average )
 
 ### Programming tools
 1. VIM ( Good )
@@ -115,10 +139,10 @@
 2. Eagle PCB ( Excellent, It's long time ago.)
 3. Altium ( Good )
 4. EasyEDA ( Outstanding )
-5. Cura 3D printer ( Good )
+5. Cura 3D printer ( Very Good )
 
 ### OS
-1. MS Windows ( Excellent )
+1. MS Windows ( Outstanding )
 2. Ubuntu ( Good )
 
 ### Basic software
@@ -141,10 +165,10 @@
 [![](http://img.youtube.com/vi/DtsZzOdKtmg/0.jpg)](http://www.youtube.com/watch?v=DtsZzOdKtmg "")
 
 ### Motor bike rider
-<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/123135731_823843858419280_7089178622451957940_o.jpg?_nc_cat=108&ccb=3&_nc_sid=84a396&_nc_eui2=AeGBA8XPuJgzscCMwtWzXUg-kmBoaDrqcDKSYGhoOupwMpcQroE1vcyAWtBE6DuaV7d1DuLXl7Qm9XoiEB9RS7Ry&_nc_ohc=OryaYkenig8AX_ba1Wh&_nc_ht=scontent.fkdt1-1.fna&oh=e21a797bf398c5d0826462f8ed6670bd&oe=604E9B44" width="500">
+<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.6435-9/190221641_954229745380690_1114064131072337054_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeF0H7c3SxupNC1sLshuXbBznyKZvQatIumfIpm9Bq0i6YOtBXp6W8bKhq8w0_seRhwaePP43DmAIC-oVINR6bxc&_nc_ohc=pAKXHM7fp6EAX84d5z2&_nc_ht=scontent.fkdt1-1.fna&oh=5f9a188016702504a9250d0149f30ac4&oe=614354D4" width="500">
 
 ### Motor bike repairing
-<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/78378282_580215456115456_1581861632215089152_o.jpg?_nc_cat=103&ccb=3&_nc_sid=8bfeb9&_nc_eui2=AeFGcTKobS18Uvg8-9MB4WPGpbTLcJ_NbfaltMtwn81t9iFpEB8XQOx_uv02As9O-Pgsz6yObZttw4pXgUICvb8u&_nc_ohc=1B0GnndxoY8AX8XnD9h&_nc_ht=scontent.fkdt1-1.fna&oh=c50600061f664023d837fbfc72f1f998&oe=604F4EC4" width="500">
+<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.6435-9/119524786_789370768533256_8111292514712691620_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=84a396&_nc_eui2=AeEiuQ8xmP48xixDb15Nl0N-fI1_jsAlSo18jX-OwCVKjVrHi3NjdV2X-_h50HE2K-pnAF-sxloZeuJU4ZUIsI75&_nc_ohc=SHzJee3YY44AX9SM333&tn=RsUY8DoOlMIOfSzf&_nc_ht=scontent.fkdt1-1.fna&oh=936a5737914bad82e0b907edfcf9ca7c&oe=614322FE" width="500">
 
 ### Gaming
-<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/92118221_670836587053342_7906964328702541824_o.jpg?_nc_cat=103&ccb=3&_nc_sid=84a396&_nc_eui2=AeHhK8737OM-K9VvdygMm8enJPJa0qgFQDgk8lrSqAVAOFrzYuAnPJqVudOfeTS4oLekrZjV4YB-SKpq4Nfb3zQl&_nc_ohc=uKiciNFooisAX9obvCQ&_nc_oc=AQm-GFrzQnnBFb08_6BsdDpyqKBelpALuoHexwyJdmiSxtht6U5vz6FV_GPypYhm-RifFpyAceSJ3KatcN28vuxX&_nc_ht=scontent.fkdt1-1.fna&oh=0c8c995565b032287417eaf7d88c4131&oe=604E215C" width="500">
+<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.6435-9/92118221_670836587053342_7906964328702541824_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=84a396&_nc_eui2=AeHhK8737OM-K9VvdygMm8enJPJa0qgFQDgk8lrSqAVAOFrzYuAnPJqVudOfeTS4oLekrZjV4YB-SKpq4Nfb3zQl&_nc_ohc=-m5rBlbquuEAX_5wSG3&_nc_oc=AQk4LLNbjz9QvmaIW9Pvr9ya1_SAvI8tqYUXfmqM0aZTd9cnjionAx7OvTomi5VKGGfOvXIm8eYWSZlPqLfGbOZV&_nc_ht=scontent.fkdt1-1.fna&oh=b00f27803459b85b37ebc45b257ec288&oe=61428557" width="500">
