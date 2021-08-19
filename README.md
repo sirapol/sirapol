@@ -1,4 +1,9 @@
-# readme.md
+# readme.md 
+#### So sorry if the paragraph of this paper is not beautiful. Because, I write in in markdown type. 
+#### If, You interest me a little bit. You can get to know me better at below link.
+#### Youtube  : https://www.youtube.com/channel/UCAxyVeQVRQ4PuR46I0jG6cg 
+#### Facebook : https://www.facebook.com/sirapol.sriuaipornchai.7
+#### Linkedin : www.linkedin.com/in/sirapols
 
 ## Personality
     strName : "Sirapol" // ศิรพล
@@ -16,7 +21,7 @@
     strLineID = "s.sirapol"
 
 ## Images
-<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.6435-9/31225613_197687114368294_7299577887722569728_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGHjACZrSM9JSDlY2QkH8-Tim838M4Z2_KKbzfwzhnb8pXOr0x9w6d_RHIxrldFkajrrUhcyM1-zqWvte2G305y&_nc_ohc=3gQG6qFOqAIAX8Oluea&tn=RsUY8DoOlMIOfSzf&_nc_ht=scontent.fkdt1-1.fna&oh=2db42ff3f3d526383ed904600fbf8870&oe=61457695" width="500">
+<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.6435-9/31225613_197687114368294_7299577887722569728_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGHjACZrSM9JSDlY2QkH8-Tim838M4Z2_KKbzfwzhnb8pXOr0x9w6d_RHIxrldFkajrrUhcyM1-zqWvte2G305y&_nc_ohc=3gQG6qFOqAIAX8Oluea&tn=RsUY8DoOlMIOfSzf&_nc_ht=scontent.fkdt1-1.fna&oh=2db42ff3f3d526383ed904600fbf8870&oe=61457695" width="420">
 
 ## Experiance
 ### 1. Ducati Motor Thailand Co., LTD.
@@ -45,6 +50,8 @@
     Make quotation, commit billing date and delivery date
 #### Start Date : 2016-06-01
 #### End Date (Estimate): 2017-12-31
+
+
 
 ### 4. Metro Systems Corporation PCL.
 #### Position : IoT Engineer
